@@ -1,0 +1,9 @@
+stint_id,season_id,player,team,injury_type,severity,start_game_id,end_game_id,start_date,end_date,games_missed
+S001,MH-2025,Micah Parker,Desert Mesa Meteors,Ankle sprain,Minor,G008,G008,2025-12-26,2025-12-26,1
+S002,MH-2025,Taylor Johnson,River City Rapids,Wrist soreness,Minor,G002,G002,2025-12-08,2025-12-08,1
+S003,MH-2025,Spencer Perez,Lakeshore Lynx,Wrist soreness,Minor,G009,G009,2025-12-29,2025-12-29,1
+S004,MH-2025,Kai Baker,Lakeshore Lynx,Hamstring strain,Moderate,G009,G009,2025-12-29,2025-12-29,1
+S005,MH-2025,Dakota Roberts,Lakeshore Lynx,Concussion protocol,Severe,G005,G005,2025-12-17,2025-12-17,1
+S006,MH-2025,Emerson Adams,Lakeshore Lynx,Wrist soreness,Minor,G015,G016,2026-01-16,2026-01-19,2
+S007,MH-2025,Sage Mitchell,Lakeshore Lynx,Back tightness,Moderate,G009,G010,2025-12-29,2026-01-01,2
+S008,MH-2025,Noah Evans,Desert Mesa Meteors,Back tightness,Minor,G015,G015,2026-01-16,2026-01-16,1

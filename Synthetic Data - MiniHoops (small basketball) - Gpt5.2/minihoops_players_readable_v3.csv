@@ -1,0 +1,33 @@
+player,team,position,role,age,salary_k,rating_3pt,rating_2pt,rating_ft,rating_pass,rating_reb,rating_def,rating_usage
+Alex Nguyen,River City Rapids,G,Starter,26,1401,67,32,45,56,40,48,41
+Jordan Patel,River City Rapids,G,Starter,26,1543,56,63,63,44,48,37,67
+Casey Garcia,River City Rapids,G/F,Starter,23,1562,47,64,57,50,40,55,59
+Taylor Johnson,River City Rapids,F,Starter,25,1609,73,50,49,35,51,62,52
+Morgan Kim,River City Rapids,F,Starter,21,1611,55,62,60,37,47,50,57
+Riley Brown,River City Rapids,F/C,Bench,24,1114,55,55,57,53,40,44,33
+Cameron Martinez,River City Rapids,C,Bench,23,1284,65,46,64,30,53,50,49
+Drew Lopez,River City Rapids,Bench,Bench,26,753,43,47,63,43,30,35,27
+Quinn Anderson,Pine Valley Pioneers,G,Starter,22,1456,57,58,55,60,36,46,48
+Avery Clark,Pine Valley Pioneers,G,Starter,25,1631,50,52,63,60,52,49,47
+Parker Lewis,Pine Valley Pioneers,G/F,Starter,19,966,38,38,49,59,33,46,73
+Reese Walker,Pine Valley Pioneers,F,Starter,26,985,36,52,45,41,54,30,60
+Hayden Young,Pine Valley Pioneers,F,Starter,22,1207,30,55,49,48,44,70,50
+Rowan Allen,Pine Valley Pioneers,F/C,Bench,24,1427,50,68,63,49,75,36,31
+Logan Scott,Pine Valley Pioneers,C,Bench,22,956,31,61,52,30,45,54,53
+Blake Hill,Pine Valley Pioneers,Bench,Bench,32,668,52,42,33,48,34,45,31
+Elliot Green,Lakeshore Lynx,G,Starter,23,1321,43,35,54,54,65,51,70
+Emerson Adams,Lakeshore Lynx,G,Starter,20,1448,44,44,80,45,54,39,69
+Kai Baker,Lakeshore Lynx,G/F,Starter,23,1322,55,45,63,49,30,34,58
+Jules Nelson,Lakeshore Lynx,F,Starter,24,1707,46,57,68,48,39,63,62
+Marley Carter,Lakeshore Lynx,F,Starter,24,1192,32,41,71,66,42,45,77
+Sage Mitchell,Lakeshore Lynx,F/C,Bench,21,1453,55,51,54,43,61,67,43
+Spencer Perez,Lakeshore Lynx,C,Bench,19,938,47,46,42,35,53,61,25
+Dakota Roberts,Lakeshore Lynx,Bench,Bench,22,1192,43,62,60,61,42,41,38
+Finley Turner,Desert Mesa Meteors,G,Starter,24,1750,58,77,77,44,40,31,45
+Harper Phillips,Desert Mesa Meteors,G,Starter,27,965,47,45,37,53,31,42,41
+Kendall Campbell,Desert Mesa Meteors,G/F,Starter,19,1793,38,73,46,42,66,83,36
+Micah Parker,Desert Mesa Meteors,F,Starter,25,1464,68,45,52,54,49,44,52
+Noah Evans,Desert Mesa Meteors,F,Starter,23,1454,44,57,49,51,56,50,59
+Sam Edwards,Desert Mesa Meteors,F/C,Bench,24,1416,38,58,54,70,76,53,29
+Alex Patel,Desert Mesa Meteors,C,Bench,27,1137,50,59,37,56,63,35,33
+Jordan Nguyen,Desert Mesa Meteors,Bench,Bench,24,953,44,50,52,47,62,30,37

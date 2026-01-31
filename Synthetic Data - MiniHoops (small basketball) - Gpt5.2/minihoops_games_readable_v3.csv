@@ -1,0 +1,17 @@
+season_id,game_id,date,home_team,away_team,home_city,away_city,venue
+MH-2025,G001,2025-12-05,River City Rapids,Pine Valley Pioneers,River City,Pine Valley,River City Arena
+MH-2025,G002,2025-12-08,Pine Valley Pioneers,River City Rapids,Pine Valley,River City,Pine Valley Arena
+MH-2025,G003,2025-12-11,Lakeshore Lynx,River City Rapids,Lakeshore,River City,Lakeshore Arena
+MH-2025,G004,2025-12-14,River City Rapids,Lakeshore Lynx,River City,Lakeshore,River City Arena
+MH-2025,G005,2025-12-17,Lakeshore Lynx,River City Rapids,Lakeshore,River City,Lakeshore Arena
+MH-2025,G006,2025-12-20,River City Rapids,Desert Mesa Meteors,River City,Desert Mesa,River City Arena
+MH-2025,G007,2025-12-23,Desert Mesa Meteors,River City Rapids,Desert Mesa,River City,Desert Mesa Arena
+MH-2025,G008,2025-12-26,River City Rapids,Desert Mesa Meteors,River City,Desert Mesa,River City Arena
+MH-2025,G009,2025-12-29,Pine Valley Pioneers,Lakeshore Lynx,Pine Valley,Lakeshore,Pine Valley Arena
+MH-2025,G010,2026-01-01,Pine Valley Pioneers,Lakeshore Lynx,Pine Valley,Lakeshore,Pine Valley Arena
+MH-2025,G011,2026-01-04,Lakeshore Lynx,Pine Valley Pioneers,Lakeshore,Pine Valley,Lakeshore Arena
+MH-2025,G012,2026-01-07,Desert Mesa Meteors,Pine Valley Pioneers,Desert Mesa,Pine Valley,Desert Mesa Arena
+MH-2025,G013,2026-01-10,Pine Valley Pioneers,Desert Mesa Meteors,Pine Valley,Desert Mesa,Pine Valley Arena
+MH-2025,G014,2026-01-13,Desert Mesa Meteors,Pine Valley Pioneers,Desert Mesa,Pine Valley,Desert Mesa Arena
+MH-2025,G015,2026-01-16,Lakeshore Lynx,Desert Mesa Meteors,Lakeshore,Desert Mesa,Lakeshore Arena
+MH-2025,G016,2026-01-19,Desert Mesa Meteors,Lakeshore Lynx,Desert Mesa,Lakeshore,Desert Mesa Arena
