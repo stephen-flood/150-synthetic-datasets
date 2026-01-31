@@ -1,0 +1,1 @@
+This repository contains assorted artificial/synthetic datasets generated using ChatGPT 5.2 for use in Comp 150 - Programming and Computer Algebra
